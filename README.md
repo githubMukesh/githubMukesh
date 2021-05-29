@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Mukesh from India. I solve problem in day to day life. Passionate about coding. I really enjoy learning new languages, library, framework like React, React Native, Node Js, Deno, Angular. Like to make web faster.
 <!--
 **githubMukesh/githubMukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
