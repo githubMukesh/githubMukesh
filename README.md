@@ -1,14 +1,9 @@
-### Hi there 👋
-
-I'm Mukesh from India. I solve problem in day to day life. Passionate about coding. I really enjoy learning new languages, library, framework like React, React Native, Node Js, Deno, Angular. Like to make web faster.
-
-[![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubMukesh)](https://github.com/githubMukesh/github-readme-stats)
 
 
 
 
-<h1 align="center">Hi 👋, I'm Mukesh Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Mukesh from India. I solve problem in day to day life. Passionate about coding. I really enjoy learning new languages, library, framework like React, React Native, Node Js, Deno, Angular. Like to make web faster.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="githubmukesh" /> </p>
 
